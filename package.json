@@ -1,0 +1,17 @@
+{
+  "name": "node-fastapprox",
+  "version": "0.0.1",
+  "description": "Node addon for fastapprox library.",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js",
+    "install": "node-gyp rebuild"
+  },
+  "keywords": [
+    "Addons",
+    "Fastapprox"
+  ],
+  "author": "MonKey Lee <monkey2000@github>",
+  "license": "MIT",
+  "gypfile": true
+}
