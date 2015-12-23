@@ -2,7 +2,7 @@
   "name": "node-fastapprox",
   "version": "0.0.1",
   "description": "Node addon for fastapprox library.",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
     "test": "node test.js",
     "install": "node-gyp rebuild"
