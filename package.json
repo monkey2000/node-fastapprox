@@ -13,5 +13,13 @@
   ],
   "author": "MonKey Lee <monkey2000@github>",
   "license": "MIT",
-  "gypfile": true
+  "gypfile": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkey2000/node-fastapprox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monkey2000/node-fastapprox/issues"
+  },
+  "homepage": "https://github.com/monkey2000/node-fastapprox#readme"
 }
